@@ -1,0 +1,23 @@
+{
+  "name": "Netflix-DIO",
+  "version": "1.0.0",
+  "description": "Projeto em js puro visando o clone da interface do netflix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Parker9309/Netflix-DIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parker9309/Netflix-DIO/issues"
+  },
+  "homepage": "https://github.com/Parker9309/Netflix-DIO#readme",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
