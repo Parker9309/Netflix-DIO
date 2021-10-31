@@ -1,0 +1,21 @@
+$backgColor: black;
+
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $backgColor
+}
+
+.header-container {
+  border: 1px solid red
+}
+
+.header-logo {
+  color: red;
+  font-family: 'Arial Black', Times;
+  font-size: 40px;
+}
